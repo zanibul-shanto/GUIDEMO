@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\GUIDEMO\bin\Debug\GUIDEMO.exe.config
+C:\Users\Admin\source\repos\GUIDEMO\bin\Debug\GUIDEMO.exe
+C:\Users\Admin\source\repos\GUIDEMO\bin\Debug\GUIDEMO.pdb
+C:\Users\Admin\source\repos\GUIDEMO\obj\Debug\GUIDEMO.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GUIDEMO\obj\Debug\GUIDEMO.Form1.resources
+C:\Users\Admin\source\repos\GUIDEMO\obj\Debug\GUIDEMO.Properties.Resources.resources
+C:\Users\Admin\source\repos\GUIDEMO\obj\Debug\GUIDEMO.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GUIDEMO\obj\Debug\GUIDEMO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GUIDEMO\obj\Debug\GUIDEMO.exe
+C:\Users\Admin\source\repos\GUIDEMO\obj\Debug\GUIDEMO.pdb
